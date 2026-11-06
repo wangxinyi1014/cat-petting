@@ -1,6 +1,4 @@
-# 掌心朝下 · Palm Down
-
-> 摸猫 · Petting the Cat
+# 摸猫 · Cat Petting
 
 凌晨 03:17 醒来，床边有一只猫。你只有一个动作：摸它。到 05:40 结束。
 
@@ -8,9 +6,9 @@
 
 中文 · 英文 | 03:17 — 05:40 | 大约三分钟
 
-**在线试玩：<https://wangxinyi1014.github.io/palm-down/>**（手机也能开）
+**在线试玩：<https://wangxinyi1014.github.io/cat-petting/>**（手机也能开）
 
-Play in the browser: <https://wangxinyi1014.github.io/palm-down/>
+Play in the browser: <https://wangxinyi1014.github.io/cat-petting/>
 
 ![中文界面](docs/zh.png)
 ![English](docs/en.png)

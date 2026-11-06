@@ -6,6 +6,10 @@
 
 中文 · 英文 | 03:17 — 05:40 | 大约三分钟
 
+**在线试玩：<https://wangxinyi1014.github.io/mo-mao/>**（手机也能开）
+
+Play in the browser: <https://wangxinyi1014.github.io/mo-mao/>
+
 ![中文界面](docs/zh.png)
 ![English](docs/en.png)
 
